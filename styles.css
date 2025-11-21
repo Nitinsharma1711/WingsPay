@@ -433,8 +433,4 @@ h1 {
         gap: 1rem !important;
     }
 }
-@media (max-width: 320px){
-    .d-flex {
-    display: grid !important;
-}
-}
+
