@@ -332,7 +332,9 @@ h1 {
     background: var(--primary-blue);
     color: white;
 }
-
+.text-light-emphasis{
+    text-decoration: none;
+}
 /* Buttons */
 .btn-primary {
     background: var(--primary-blue);
