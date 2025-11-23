@@ -38,3 +38,4 @@ WingsPay - Modern Payment Solutions
  License
 Specify your license here.
  Acknowledgements- Thanks to all open-source icons or images used
+<img width="1920" height="4441" alt="screencapture-nitinsharma1711-github-io-WingsPay-2025-11-23-17_47_07" src="https://github.com/user-attachments/assets/11e9bc42-28f9-4575-b134-b1c93f9dd1ed" />
